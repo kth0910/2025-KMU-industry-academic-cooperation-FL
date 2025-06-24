@@ -172,3 +172,20 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+
+__pycache__
+.vscode
+.idea
+temp
+logs
+mnist
+emnist
+fmnist
+cifar10
+cifar100
+synthetic
+*.json
+
+*Pytorch/

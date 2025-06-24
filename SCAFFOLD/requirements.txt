@@ -1,0 +1,8 @@
+pathlib
+torch
+numpy
+torchvision
+tqdm
+rich
+pandas
+matplotlib
