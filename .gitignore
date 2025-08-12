@@ -189,3 +189,4 @@ synthetic
 *.json
 
 *Pytorch/
+*parquet/

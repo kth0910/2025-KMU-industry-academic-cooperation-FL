@@ -34,3 +34,4 @@ def log_metrics(distributed: dict, centralized: dict,
         for r, (a, l) in enumerate(zip(
                 centralized.get("accuracy", []), centralized.get("loss", []))):
             writer.writerow([r, a, l])
+    print(f"Logs saved to {client_log_path} and {global_log_path}.")

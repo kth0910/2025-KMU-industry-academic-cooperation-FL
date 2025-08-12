@@ -6,3 +6,9 @@ scikit-learn
 tqdm
 matplotlib
 psaw
+datasets
+nltk
+requests
+pandas
+pyarrow
+huggingface_hub
