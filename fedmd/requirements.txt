@@ -1,0 +1,38 @@
+# FedMD (Federated Model Distillation) Requirements
+
+# Core ML Framework
+torch>=1.9.0
+torchvision>=0.10.0
+numpy>=1.21.0
+
+# Data Processing
+Pillow>=8.3.0
+scikit-learn>=1.0.0
+
+# Communication & Networking
+grpcio>=1.40.0
+grpcio-tools>=1.40.0
+protobuf>=3.19.0
+
+# Utilities
+tqdm>=4.62.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Configuration & Logging
+pyyaml>=5.4.0
+colorlog>=6.6.0
+
+# Development & Testing
+pytest>=6.2.0
+pytest-cov>=2.12.0
+
+# Optional: Jupyter for interactive development
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: TensorBoard for visualization
+tensorboard>=2.7.0
+
+# System utilities
+psutil>=5.8.0
