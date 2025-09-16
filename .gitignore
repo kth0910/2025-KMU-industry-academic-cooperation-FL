@@ -190,3 +190,11 @@ synthetic
 
 *Pytorch/
 *parquet/
+agents.md
+tasks.md
+*.proto
+data_batch*
+test*
+*.pt
+*.tar.gz
+*.meta
